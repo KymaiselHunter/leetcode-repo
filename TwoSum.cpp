@@ -1,6 +1,7 @@
 //Name : Kyle Bautista
 //October 2023
-//Two Sum
+//1. Two Sum
+//Easy
 //https://leetcode.com/problems/two-sum/description/
 
 class Solution {
