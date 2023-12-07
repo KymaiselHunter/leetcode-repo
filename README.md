@@ -3,6 +3,9 @@
 
 | # | Title | Difficulty | Solution |
 |---| ----- | ---------- | -------- |
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy | [C++](https://github.com/KymaiselHunter/leetcode-repo/blob/main/LongestCommonPrefix.cpp) |
+|13|[Roman To Integer](/https://leetcode.com/problems/roman-to-integer/description/) | Easy | [C++](https://github.com/KymaiselHunter/leetcode-repo/blob/main/RomanToInteger.cpp) |
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Medium | [C++](https://github.com/KymaiselHunter/leetcode-repo/blob/main/ContainerWithMostWater.cpp) |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Medium | [C++](https://github.com/KymaiselHunter/leetcode-repo/blob/main/PalindromeNumber.cpp) |
 |8|[String To Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | Medium | [C++](https://github.com/KymaiselHunter/leetcode-repo/blob/main/StringToInteger(atoi).cpp) |
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | Medium | [C++](https://github.com/KymaiselHunter/leetcode-repo/blob/main/ReverseInteger.cpp) |
